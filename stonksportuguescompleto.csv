@@ -1474,7 +1474,7 @@
 1473	Novo	Новий	新		UI (for new friends in contacts)
 1474	Sem fronteiras	Без рамок	ボーダレス		UI (Borderless Fullscreen)
 1475	Gestao da Empresa <mycompname>	Управління компанією <mycompname>	<mycompname>社の経営陣		UI
-1476	Realocar reservas	Поповнити резерви	準備金の補充		UI
+1476	Ressuprir reservas	Поповнити резерви	準備金の補充		UI
 1477	Se demitir da posiçao de CEO	Піти у відставку з посади генерального директора	CEOを辞任		UI
 1478	Voce pode ressuprir as reservas da empresa com seus proprios fundos.	Ви можете поповнювати резерви компанії власними коштами.	会社の準備金を自己資金で補充することができます。		Amy
 1479	Voce quer ressuprir as reservas da empresa com {global.ownmoney_reserves}?	Чи хочете ви поповнити резерви компанії на {global.ownmoney_reserves}?	会社の準備金を{global.ownmoney_reserves}で補充しますか？		Amy
