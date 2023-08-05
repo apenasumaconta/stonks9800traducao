@@ -327,9 +327,9 @@
 326	Feliz Dia de Açao de Graças pelo Trabalho!	З Днем подяки праці!	勤労感謝の日おめでとうございます！		In-game messages
 327	Ei! Ouvi dizer que voce esta com problemas financeiros! Eu tenho um pequeno trabalho para voce por <global.nedeli> semanas. #Apenas de segunda a quarta-feira, 3 dias por semana, o valor da taxa por dia de trabalho e {global.platapodrabotka}. #Lembre-se que nesses dias voce nao podera operar na bolsa de valores.	Вітання! Чув у тебе проблеми з грошима! У мене є невеличкий підробіток для тебе на <global.nedeli> тижнів. #Тільки з понеділка по середу, три дні на тиждень, за робочий день плата - {global.platapodrabotka}. #Але ці дні ти не зможеш торгувати на біржі.	どうも、お金に困っているそうだね。<global.nedeli>週間のちょっとした仕事があるんだ。#月曜から水曜までの週3日だけ、日当は{global.platapodrabotka}。#この期間中、出勤日には取引所で取引はできないので覚えておいてね。		A call from a friend
 328	Excelente! Fico feliz em poder ajudar!	Відмінно! Радий, що зміг підсобити!	それは良かった！役に立てて嬉しいよ。		A call from a friend
-329	Voce esta em um emprego de meio período, entao nao pode ir a nenhum outro lugar.	Ви на підробці, тому не можете куди-небудь ходити.	アルバイト中なので、どこにも行くことができません。		UI
+329	Voce esta em um emprego de meio periodo, entao nao pode ir a nenhum outro lugar.	Ви на підробці, тому не можете куди-небудь ходити.	アルバイト中なので、どこにも行くことができません。		UI
 330	O trabalho de meio periodo acabou!	Підробіток закінчився!	アルバイトが終わりました！		UI
-331	Voce teve que terminar seu trabalho de meio período cedo.	Вам довелося завершити підробіток дочасно.	アルバイトを早めに終えなければなりませんでした。		UI
+331	Voce teve que terminar seu trabalho de meio periodo cedo.	Вам довелося завершити підробіток дочасно.	アルバイトを早めに終えなければなりませんでした。		UI
 332	"Nos recebemos uma proposta de investimento. #A empresa <companyname> esta solicitando {summaa} para o seu novo projeto ""<projectname>"". # Eles prometem a voce um lucro de #{profit}. # <randomfrase>"	"Надійшла інвестиційна пропозиція. #Компанія <companyname> просить {summaa} для свого нового проекту ""<projectname>"". #Обіцяють вам прибуток в розмірі #{profit}. #<randomfrase>"	"投資の提案を受けました。#<companyname>社が新規プロジェクト""<projectname>""のために{summaa}を要望しています。 同社は#{profit}の利益を約束しています。#<randomfrase>"		Amy
 333	Podemos tentar...	Можемо спробувати...	やってみましょう…		Amy
 334	Isso e suspeito!	Підозріло це!	これは怪しいです！		Amy
