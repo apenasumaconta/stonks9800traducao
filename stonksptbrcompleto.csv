@@ -1469,7 +1469,7 @@
 1468	Perdas	Збитки	損失		UI
 1469	Reservas foram usadas para cobrir as perdas.	Для покриття збитків були використані резерви.	損失を補填するために引当金が使われました。		Amy
 1470	Nao tinhamos dinheiro suficiente para cobrir as perdas. Nos teremos que cortar salarios e custos de produçao.	У нас не вистачило грошей на покриття збитків. Доведеться урізати зарплатню та витрати на виробництво.	損失を補填するための資金がありませんでした。給与と生産コストを削減しなければならないでしょう。		Amy
-1471	Relatorios da empresa <namemycomp>	Звіт компанії <global.namemycomp>	<global.namemycomp>社の企業レポート		UI
+1471	Relatorios da empresa <global.namemycomp>	Звіт компанії <global.namemycomp>	<global.namemycomp>社の企業レポート		UI
 1472	Voce teve que vender parte das suas açoes da empresa <pepe2> por {iz} para pagar a divida.	Ви були вимушені частину своїх акції компанії <pepe2> за {iz} щоб розплатитися з боргами.	借金返済のために<pepe2>社の株式の一部を{iz}で売却せざるを得ませんでした。		Amy
 1473	Novo	Новий	新		UI (for new friends in contacts)
 1474	Sem fronteiras	Без рамок	ボーダーレスウィンドウ		UI (Borderless Fullscreen)
