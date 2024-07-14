@@ -3303,7 +3303,7 @@
 3302	Visite o campo de golfe <need> vezes.	Відвідайте поле для гольфу <need> разів.	ゴルフコースを<need>回訪れる。	골프 코스를 <need>번 방문하세요.		
 3303	Marque <need> de pontos em um unico jogo.	Наберіть <need> очок в одній грі.	一回のゲームで<need>ポイントを獲得する。	한 게임에서 <need>점을 얻으세요.		
 3304	Vencer no golfe <need> de vezes.	Переможіть у гольфі <need> разів.	ゴルフで<need>回勝つ。	골프에서 <need>번 이기세요.		
-3305	Crie um projeto de nivel <need> em sua própria empresa.	Створіть проект рівня <need> у власній компанії.	自社で<need>レベルのプロジェクトを作成する。	자신의 회사에서 <need> 레벨 프로젝트를 만드세요.		
+3305	Crie um projeto de nivel <need> em sua propria empresa.	Створіть проект рівня <need> у власній компанії.	自社で<need>レベルのプロジェクトを作成する。	자신의 회사에서 <need> 레벨 프로젝트를 만드세요.		
 3306	PROJETO LANCADO!	ПРОЕКТ СТВОРЕНО!	プロジェクトリリース済み！	프로젝트 출시됨!		
 3307	Concluir o projeto	Завершити проект	プロジェクト終了	프로젝트 완료		
 3308	Voce precisa atingir pelo menos o primeiro nivel do projeto.	Потрібно досягти хоча б першого рівня проекту.	少なくともプロジェクトの最初のレベルに到達する必要がある。	프로젝트의 첫 번째 레벨 이상에 도달해야 합니다.	UI (Hint)	
@@ -3321,7 +3321,7 @@
 3320	Nossa empresa pode fazer ofertas de aquisicao para outras empresas. O resultado depende do valor da oferta, da saude financeira do alvo e de sua reputacao. As empresas em dificuldades tem maior probabilidade de aceitar e se juntar a nossa corporacao.	Наша компанія може робити пропозиції про поглинання іншим компаніям. Результат залежить від суми пропозиції, фінансового стану об'єкта купівлі та вашої репутації. Компанії, які перебувають у скрутному становищі, з більшою ймовірністю приймуть пропозицію і приєднаються до нашої корпорації.	わが社は、他の企業に対して買収提案を行うことができます。買収提案の成否には、買収金額、その企業の財務状況、そしてあなたの評判が影響します。経営難に陥っている企業は、わが社の買収を受け入れる可能性が高くなります。	우리 기업은 다른 기업에 인수를 제안할 수 있습니다. 제안 결과는 제안한 금액, 인수 대상의 재정 상태 및 평판에 따라 달라집니다. 경영난에 처한 기업일수록 인수 제안에 응하여 우리 기업으로 합류할 가능성이 높습니다.	Amy	
 3321	Voce deseja enviar uma oferta de aquisicao para <name_of_company>?	Ви хочете надіслати пропозицію про придбання <name_of_company>?	<name_of_company>に買収提案を送りますか？	<name_of_company>에 인수 제안을 보낼까요?	Amy	
 3322	Nossas reservas nao sao suficientes para tal oferta.	Наших резерів недостатньо для такої пропозиції.	そのような買収提案を出すには、わが社の蓄えは十分ではありません。	현재 유보금으로는 이 제안을 할 수 없습니다.	Amy	
-3323	A empresa <name_of_company> nao esta aceitando ofertas de aquisicão no momento.	Компанія <name_of_company> наразі не приймає пропозиції на купівлю.	現在、<name_of_company>社は買収提案を受け付けていません。	<name_of_company>에서는 현재 인수 제안을 받아들이지 않고 있습니다.	Amy	
+3323	A empresa <name_of_company> nao esta aceitando ofertas de aquisicao no momento.	Компанія <name_of_company> наразі не приймає пропозиції на купівлю.	現在、<name_of_company>社は買収提案を受け付けていません。	<name_of_company>에서는 현재 인수 제안을 받아들이지 않고 있습니다.	Amy	
 3324	Precisamos aguardar uma resposta a oferta anterior.	Треба дочекатись відповіді на попередню пропозицію.	前回の買収提案に対する返答を待つ必要があります。	우선 이전에 보낸 제안의 답변을 기다려야 합니다.	Amy	
 3325	Enviar oferta de aquisicao	Надіслати пропозицію купівлі	買収提案を送る	인수 제안을 보낸다	UI button	
 3326	Sua oferta chamou nossa atencao. Estamos entusiasmados com a possivel sinergia entre <name_of_company> e sua estimada corporacao.	Ваша пропозиція привернула нашу увагу. Ми в захваті від потенційної синергії між <name_of_company> та вашою шанованою корпорацією.	貴社の買収提案に大いに関心があります。貴社と<name_of_company>との間にもたらされるシナジー効果に強い期待を寄せています。	관심이 가는 제안이네요. 귀사처럼 촉망 받는 기업과 <name_of_company> 간에는 확실히 굉장한 시너지가 있을 것 같습니다.	Reply to a player's letter (unisex)	
@@ -3356,7 +3356,7 @@
 3355	Vovo costumava dizer que a agua nos ensina que a vida esta sempre mudando, e cheia de surpresas e exige paciencia. Talvez hoje ela nos ensine um pouco mais sobre como aproveitar o momento.	Дідусь казав, що вода вчить, наскільки життя мінливе, сповнене несподіванок і потребує терпіння. Можливо, сьогодні вона навчить нас трохи більше насолоджуватися моментом.	祖父は、水は人生が常に変化し、驚きに満ち、忍耐を必要とすることを教えてくれると言っていました。今日は、水が今この時を楽しむことについてもう少し教えてくれるかもしれませんね。	할아버지께서는 물이란 항상 변화하고 놀라움으로 가득하니, 인생에는 인내가 필요하다는 교훈을 던져 준다고 말씀하시곤 하셨죠. 어쩌면 물은 오늘 우리에게 순간의 만끽에 대해 가르쳐 줄지도 모르겠네요.	Amy	
 3356	Aqui, experimente a velha vara de pescar do meu avo hoje. Ela esta um pouco gasta, mas ainda tem um pouco de sorte!	Ось, спробуй сьогодні стару дідову вудку. Вона трохи пошарпана, але в ній ще залишилося трохи везіння!	ほら、今日は祖父の古い釣り竿を使ってみてください。少しくたびれていますが、まだ運は残っているはずですよ！	오늘은 할아버지의 옛날 낚싯대를 써 보세요. 약간 낡았을지 몰라도 행운이 깃들어 있답니다!	Amy	
 3357	Aquela vara velha nao esta mais dando conta do recado, nao e? Vamos ver se conseguimos encontrar algo melhor para voce. Ha uma loja aqui perto.	Ця стара вудка вже нікуди не годиться, еге ж? Подивимось, чи знайдемо щось краще. Тут недалеко є одна крамниця.	その古い竿はもう使い物にならないですかね？もっといいものを探してみましょう。近くに釣具屋があるんです。	옛날 낚싯대로는 잘 안 되셨나 봐요? 그럼 더 좋은 게 있는지 찾아 보죠. 근처에 가게가 있어요.	Amy	
-3358	Essa e uma vara antiga! Mas se voce leva a pesca a serio, precisa de um equipamento melhor. Mas eu so vendo para pescadores dedicados. Você tera que merece-la.	Це ж вінтажна вудка! Проте якщо ви серйозно ставитеся до риболовлі, вам потрібні кращі снасті. Однак, я продаю тільки справжнім рибалкам. Ти мусиш це заслужити.	おお、ずいぶん年季の入った釣竿だね！でも、本気で釣りをするなら、もっといい道具がいるね。とはいっても私はクロウトの釣り人にしか売らないんだ。どうだい、手に入れる自信はあるかい？	빈티지한 낚싯대네요! 하지만 낚시에 진심이시라면 더 좋은 장비가 필요할 겁니다. 저 역시 진심인 낚시꾼에게만 물건을 팔고요. 스스로의 자격을 증명해 보세요.	Fishing Gear Master	
+3358	Essa e uma vara antiga! Mas se voce leva a pesca a serio, precisa de um equipamento melhor. Mas eu so vendo para pescadores dedicados. Voce tera que merece-la.	Це ж вінтажна вудка! Проте якщо ви серйозно ставитеся до риболовлі, вам потрібні кращі снасті. Однак, я продаю тільки справжнім рибалкам. Ти мусиш це заслужити.	おお、ずいぶん年季の入った釣竿だね！でも、本気で釣りをするなら、もっといい道具がいるね。とはいっても私はクロウトの釣り人にしか売らないんだ。どうだい、手に入れる自信はあるかい？	빈티지한 낚싯대네요! 하지만 낚시에 진심이시라면 더 좋은 장비가 필요할 겁니다. 저 역시 진심인 낚시꾼에게만 물건을 팔고요. 스스로의 자격을 증명해 보세요.	Fishing Gear Master	
 3359	Esta disposto a um desafio? Pode ser divertido!	Оце випробування! Звучить цікаво.	挑戦してみますか？きっと楽しいですよ！	새로운 도전에 나서시려고요? 재미있겠네요!	Amy	
 3360	Cada tipo de peixe lhe rendera pontos. Os comuns lhe ajudarao a comecar, mas os raros? Eles valem muito mais. E se voce conseguir pescar os tipos evasivos que eu raramente vejo, entao voce definitivamente ganhara muitos pontos.	Кожен різновид риби буде приносити вам бали. Звичайні риби - це лише початок, а от рідкісні? Вони вартують набагато більше. А якщо вам вдасться впіймати невловимі види, які я дуже рідко зустрічаю, то ви точно заробите багато балів.	釣った魚の種類によってポイントがもらえる。どこにでもいる魚ならすぐに釣れるが、珍しい魚だったら？レア級の魚ならもっと価値があるぞ。そして、めったにお目にかかれないような魚が釣れれば、きっと大きなポイントを手にすることができる。	물고기를 낚으면 유형에 따라 점수를 얻을 수 있지요. 처음에는 일반적인 녀석들도 잡을 수 있지만, 특별한 녀석들을 잡으면? 가치가 더 높아지지요. 게다가 저도 흔히 보지 못하는 희귀한 녀석들을 잡아 오시면 굉장한 점수를 쳐 드리지요.	Fishing Gear Master	
 3361	Parece uma otima maneira de melhorar a pesca!	Звучить як чудовий спосіб стати кращим рибалкою!	釣りが上達するには素晴らしい方法のようですね！	낚시 실력을 늘릴 수 있는 굉장한 방법 같네요!	Amy	
@@ -3377,7 +3377,7 @@
 3376	Bonus	Бонус	ボーナス	보너스	UI	
 3377	Bonus por novo peixe	Бонус за нову рибу	新しい魚のボーナス	새로운 물고기 보너스	UI	
 3378	Do que voce precisa?	Що вам потрібно?	何がご入用ですかな？	뭐가 필요해?	Yakuza	
-3379	Manipulacão de Mercado	Маніпулювання ринком	市場操作	주가 조작	UI	
+3379	Manipulacao de Mercado	Маніпулювання ринком	市場操作	주가 조작	UI	
 3380	Sabotagem Corporativa	Корпоративний саботаж	企業妨害	기업 사보타주	UI	
 3381	Podemos arruinar ou melhorar a reputacao de qualquer empresa. Qual delas lhe interessa?	Ми можемо зіпсувати або покращити репутацію якоїсь компанії. Яка компанія вас цікавить?	我々はどんな会社の評判だって落としたり高めたりできる。どちらがご希望ですかな？	기업 평판을 박살 내거나 금칠하는 건 우리 특기자. 뭐가 필요해?	Yakuza	
 3382	Influencia Setorial	Секторальний вплив	業界への働きかけ	부문별 영향력	Yakuza	
@@ -3429,22 +3429,22 @@
 3428	Padrao	На пасах	不戦勝	기본	"UI (Poker, it's like ""Win by Default"")"	
 3429	Vou lhe contar um segredo - ha um clube de poquer escondido com os grandes jogadores da cidade e acho que voce pode conseguir um convite. Novos contatos e grandes premios garantidos. Interessado?	Відкрию тобі секрет - у місті є таємний покерний клуб з великими шишками, і я думаю, що ти можеш отримати запрошення. Нові знайомства та великі призові гарантовані. Цікаво?	秘密を教えてあげましょう。街の大物たちが集う隠れたポーカークラブがあるんですよ。あなたならそこに招待してもらえると思いますよ。新たな人脈づくりと高額賞金が得られること間違いなしですが、興味ありませんか？	비밀을 하나 알려드리지. 도시 거물들이 모이는 비밀 포커 클럽이 있는데, 여러분도 초대받을 수 있을 것 같소. 새로운 인맥과 큰 상금이 보장되지. 관심 있으신가?	Random guy	
 3430	Isso e otimo! Entao vamos la.	Чудово! Тоді пішли.	それはよかった！では早速行きましょう。	멋지군! 갑시다.	Random guy	
-3431	Então até a proxima vez. Eu lhe escreverei o endereco.	Тоді наступним разом. Я напишу тобі адресу.	では次の機会に。そこの住所をお知らせします。	그럼 뭐, 다음 기회에. 주소는 써 드리지.	Random guy	
+3431	Entao ate a proxima vez. Eu lhe escreverei o endereco.	Тоді наступним разом. Я напишу тобі адресу.	では次の機会に。そこの住所をお知らせします。	그럼 뭐, 다음 기회에. 주소는 써 드리지.	Random guy	
 3432	Vou lhe explicar os principios basicos do poquer Texas Hold'em.	Я поясню вам основи гри в Техаський Холдем.	テキサスホールデムポーカーの基本を説明します。	텍사스 홀덤의 기본 룰을 설명해 드리겠습니다.	Poker rules	
 3433	Primeiro, cada jogador recebe duas cartas privadas, chamadas de hole cards. Depois, cinco cartas comunitarias sao distribuidas e viradas para cima no meio da mesa.	Спочатку кожен гравець отримує дві закриті карти, які називаються кишеньковими картами. Потім, п'ять загальних карт викладаються відкрито посеред столу.	まず、各プレイヤーはホールカードと呼ばれる自分のカードを2枚もらいます。そして、5枚のコミュニティカードがテーブルの中央に表向きに配られます。	우선 각 플레이어에게 각자 카드 두 장을 줍니다. 이걸 가리켜 홀 카드라 부릅니다. 그런 다음 테이블 가운데에 커뮤니티 카드 다섯 장을 오픈해 놓습니다.	Poker rules	
 3434	O objetivo e formar a melhor mao de cinco cartas usando qualquer combinacao de suas duas cartas fechadas e as cinco cartas comunitarias.	Мета полягає в тому, щоб зібрати найкращу п'ятикарткову комбінацію, використовуючи будь-яку комбінацію з двох кишенькових карт і п'яти загальних карт	目標は、2枚のホールカードと5枚のコミュニティカードの組み合わせで、最高の5枚のカードを作ることです。	목표는 홀 카드 두 장과 커뮤니티 카드 다섯 장을 조합하여 최고의 족보 다섯 장을 만드는 것입니다.	Poker rules	
 3435	Ha quatro rodadas de apostas:	Існує чотири раунди ставок:	ベッティングラウンド（賭けるタイミング）は4回あります：	베팅은 4라운드로 진행됩니다.	Poker rules	
-3436	1. Pré-Flop: Isso ocorre logo apos voce receber suas cartas fechadas.	1. Пре-флоп: Це відразу після отримання кишенькових карт.	1．プリフロップ：まずはホールカードが配られた直後です。	1. 프리 플랍: 각각 홀 카드를 받은 상태입니다.	Poker rules	
+3436	1. Pre-Flop: Isso ocorre logo apos voce receber suas cartas fechadas.	1. Пре-флоп: Це відразу після отримання кишенькових карт.	1．プリフロップ：まずはホールカードが配られた直後です。	1. 프리 플랍: 각각 홀 카드를 받은 상태입니다.	Poker rules	
 3437	2. Flop: Tres cartas comunitarias sao distribuidas viradas para cima, seguidas de uma rodada de apostas.	2. Флоп: Три загальні карти викладаються відкрито, після чого відбувається раунд ставок.	2．フロップ：3枚のコミュニティカードが表向きに配られ、ベッティングラウンドが始まります。	2. 플랍: 커뮤니티 카드 3장을 오픈한 다음, 베팅이 한 라운드 진행됩니다.	Poker rules	
 3438	3. Turn: Uma quarta carta comunitaria e distribuida, e entao ha outra rodada de apostas.	3. Тьорн: Відкривається четверта загальна карта, і знову відбувається раунд ставок.	3．ターン：4枚目のコミュニティカードが配られ、次のベット（賭け）が行われます。	3. 턴: 4번째 커뮤니티 카드를 오픈한 다음, 베팅이 한 라운드 진행됩니다.	Poker rules	
 3439	4. River: A quinta e ultima carta comunitaria e distribuida, seguida pela ultima rodada de apostas.	4. Рівер: Відкривається п'ята і остання загальна карта, після чого відбувається останній раунд ставок.	4．リバー：最後の5枚目のコミュニティカードが配られ、最後のベッティングラウンドが行われます。	4. 리버: 5번째 커뮤니티 카드를 오픈한 다음, 마지막 베팅이 진행됩니다.	Poker rules	
 3440	Se varios jogadores ainda estiverem presentes apos a rodada final de apostas, todos mostram suas maos. A melhor mao ganha o pote!	Якщо після останнього раунду ставок у грі залишаються кілька гравців, всі показують свої карти. Найкраща комбінація виграє банк	最後のベッティングラウンドが終わった時点で複数のプレイヤーが残っている場合は、全員が手札を見せます。最も役の強い手札を持ったプレイヤーが勝利して、ポット（ベットされたすべてのチップ）を獲得します！	마지막 베팅 라운드가 진행된 후에도 플레이어 다수가 남아 있다면 다들 손패를 공개합니다. 최고의 족보를 가진 사람이 팟을 가져갑니다!	Poker rules	
-3441	Classificacão das maos (da maior para a menor):	Рейтинги комбінацій (від найвищого до найнижчого):	役のランキング（強い順）：	족보 순위 (높은 족보부터 낮은 족보 순):	Poker rules	
+3441	Classificacao das maos (da maior para a menor):	Рейтинги комбінацій (від найвищого до найнижчого):	役のランキング（強い順）：	족보 순위 (높은 족보부터 낮은 족보 순):	Poker rules	
 3442	Royal Flush: A mao mais alta. Consiste em A, K, Q, J e 10, todos do mesmo naipe.	Роял-флеш: Найвища комбінація. Складається з A, K, Q, J і 10 однієї масті.	ロイヤルフラッシュ：一番強い役。同じスートでA、K、Q、J、10を揃える。	로얄 플러쉬: 가장 높은 족보입니다. 동일한 무늬의 A, K, Q, J, 10으로 구성됩니다.	Poker rules	
 3443	Straight Flush: Cinco cartas consecutivas do mesmo naipe.	Стріт-флеш: П'ять послідовних карт однієї масті.	ストレートフラッシュ：同じスートで連続した数字のカードを5枚揃える。	스트레이트 플러쉬: 동일한 무늬의 연속된 숫자 5장으로 구성됩니다.	Poker rules	
 3444	Quadra: Quatro cartas do mesmo valor. Por exemplo, quatro Reis.	Каре: Чотири карти одного рангу. Наприклад, чотири королі.	フォーカード：同じ数字のカードを4枚揃える。たとえば、キングが4枚。	포 카드: 같은 숫자 카드 4장으로 구성됩니다. 예컨대 K만 4장이어도 됩니다.	Poker rules	
 3445	Full House: Tres cartas de um valor e duas cartas de outro valor.	Фул-хаус: Три карти одного рангу і дві карти іншого рангу.	フルハウス：同じ数字のカード3枚と別に同じ数字のカード2枚揃える。	풀 하우스: 같은 숫자 2종류가 각각 3장, 2장씩으로 구성됩니다.	Poker rules	
-3446	Flush: Cinco cartas do mesmo naipe, nao em sequência.	Флеш: П'ять карт однієї масті, не в послідовності.	フラッシュ：数字に関係なく、同じスートのカードを5枚揃える。	플러쉬: 같은 무늬 카드 5장입니다. 숫자 순서는 상관없습니다.	Poker rules	
+3446	Flush: Cinco cartas do mesmo naipe, nao em sequencia.	Флеш: П'ять карт однієї масті, не в послідовності.	フラッシュ：数字に関係なく、同じスートのカードを5枚揃える。	플러쉬: 같은 무늬 카드 5장입니다. 숫자 순서는 상관없습니다.	Poker rules	
 3447	Straight: Cinco cartas consecutivas de naipes diferentes.	Стрейт: П'ять послідовних карт різних мастей.	ストレート：スートに関係なく、連続した数字のカードを5枚揃える。	스트레이트: 숫자 순서가 연속되는 카드 5장입니다. 무늬는 상관없습니다.	Poker rules	
 3448	Trinca: Tres cartas do mesmo valor.	Сет: Три карти одного рангу.	スリーカード：同じ数字のカードを3枚揃える。	스리 카드: 같은 숫자 카드 3장으로 구성됩니다.	Poker rules	
 3449	Dois Pares: Duas cartas de um valor e duas cartas de outro valor.	Дві пари: Дві карти одного рангу і дві карти іншого рангу.	ツーペア：同じ数字のカード2枚の組み合わせを2組揃える。	투 페어: 같은 숫자 2종류가 각각 2장씩으로 구성됩니다.	Poker rules	
@@ -3467,7 +3467,7 @@
 3466	Informacoes privilegiadas	Інсайдерська інформація	内部情報	내부 정보	Prize	
 3467	<number_shares> acoes da <name_company>	<number_shares> акцій компанії <name_company>	<name_company>の株式<number_shares>株	<name_company> 주식 <number_shares>주	Prize	
 3468	Parabens! Voce ganhou um torneio de poquer. Seu premio e <prize_text>	Вітаю! Ви перемогли у турнірі в покері. Ваш приз - <prize_text>	おめでとうございます！ポーカートーナメントで優勝しました。賞品は<prize_text>です。	축하합니다! 포커 토너먼트에서 우승하셨습니다. 상품은 <prize_text>입니다.	Amy	
-3469	Uau, você ganhou? Bem, parece que ate um relogio quebrado esta certo duas vezes por dia, nao e?	Ого, ти виграв? Що ж, навіть зламаний годинник буває правий двічі на день, так?	えっ、勝ったんですか？まあ、壊れた時計でも一日二回は正しい時刻をさすってことですかね。	우와, 이기셨네요? 뭐, 고장 난 시계도 하루에 두 번은 맞는다죠?	Man	
+3469	Uau, voce ganhou? Bem, parece que ate um relogio quebrado esta certo duas vezes por dia, nao e?	Ого, ти виграв? Що ж, навіть зламаний годинник буває правий двічі на день, так?	えっ、勝ったんですか？まあ、壊れた時計でも一日二回は正しい時刻をさすってことですかね。	우와, 이기셨네요? 뭐, 고장 난 시계도 하루에 두 번은 맞는다죠?	Man	
 3470	Vitoria impressionante. Sua abordagem estrategica foi... inesperadamente eficaz.	Вражаюча перемога. Ваша стратегія була... несподівано ефективною.	見事な勝利だ。チーフの戦略的アプローチが...予想外に効果的だったということでしょう。	인상적인 승리로군요. 구사하시는 전략이 참... 예상 외로 효과적이었군요.	Man	
 3471	Ha! Voce arrasou la fora! A proxima rodada e por sua conta, campeao!	Ха! Ти знищив всіх! Наступний раунд твій, чемпіоне!	ワオ！よくやった！次のラウンドはチーフの番だぜ、よっチャンピオン！	하! 완전 박살을 내셨군! 한 잔 사시죠!	Man	
 3472	Desempenho notavel. Parece que eu subestimei sua perspicacia.	Чудовий результат. Здається, я недооцінив твою кмітливість.	素晴らしいパフォーマンスですな。私はあなたの才能を過小評価していたようだ。	굉장한 실력이시군요. 아무래도 실력을 과소평가한 모양이네요.	Man	
@@ -3485,9 +3485,9 @@
 3484	Mestre da Pesca	Майстер риболовлі	釣り名人	낚시 명인		
 3485	Pegue um peixe <need> vezes.	Піймати рибу <need> раз.	魚を<need>回釣る。	물고기를 <need>번 잡기.		
 3486	Terminador de Vara	Вудка-термінатор	ロッドターミネーター	로드 터미네이터		
-3487	Aprimore a vara de pescar até o nivel maximo.	Прокачати вудку на максимум.	釣り竿を最大レベルにアップグレードする。	낚싯대를 최대 레벨로 업그레이드하기.		
+3487	Aprimore a vara de pescar ate o nivel maximo.	Прокачати вудку на максимум.	釣り竿を最大レベルにアップグレードする。	낚싯대를 최대 레벨로 업그레이드하기.		
 3488	Coletor de Peixes	Колекціонер риб	魚コレクター	물고기 수집가		
-3489	Colete <need>% da colecão de peixes.	Зібрати колекцію риб на <need>%.	魚コレクションの<need>%を集める。	물고기 컬렉션의 <need>% 수집하기.		
+3489	Colete <need>% da colecao de peixes.	Зібрати колекцію риб на <need>%.	魚コレクションの<need>%を集める。	물고기 컬렉션의 <need>% 수집하기.		
 3490	Jogador de Poquer Secreto	Таємний гравець	秘密のポーカープレイヤー	비밀 포커 플레이어		
 3491	Participe do jogo de poquer secreto <need> vezes.	Прийти на таємний покер <need> раз.	秘密のポーカーゲームに<need>回参加する。	비밀 포커 게임에 <need>번 참석하기.		
 3492	Campeao de Poquer	Покерний чемпіон	ポーカーチャンピオン	포커 챔피언		
