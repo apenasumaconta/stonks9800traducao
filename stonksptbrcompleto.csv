@@ -3545,8 +3545,8 @@
 3544	“A rodada de investimentos trouxe um decepcionante {new_money}. Os preços das açoes cairam <vidsotok_new>%, pois os investidores estavam preocupados com a possivel expansao excessiva.”	Раунд інвестицій приніс невтішні {new_money}. Ціни на акції впали на <vidsotok_new>%, оскільки інвестори були стурбовані потенційним надмірним зростанням.	この投資ラウンドでは{new_money}という期待外れの資金を得た。株価は<vidsotok_new>%下落し、投資家は潜在的な過剰拡大を懸念した。	투자 라운드에서 실망스러운 {new_money}를 얻었습니다. 투자자들이 과도한 확장 가능성에 대해 우려하면서 주가가 <vidsotok_new>% 하락했습니다.	Amy	
 3545	“Infelizmente levantamos apenas {new_money}, e os rumores de problemas na empresa causaram panico nos investidores. O preço das açoes despencou <vidsotok_new>%.”	На жаль, ми залучили лише {new_money}, а чутки про проблеми всередині компанії викликали паніку інвесторів. Ціна акцій впала на <vidsotok_new>%.	残念ながら、私たちは{new_money}しか調達できず、社内のトラブルの噂が投資家のパニックを引き起こした。株価は<vidsotok_new>%急落した。	안타깝게도 {new_money}만 모금했고, 회사 내부에 문제가 있다는 소문이 퍼지면서 투자자들은 패닉에 빠졌습니다. 주가가 <vidsotok_new>% 급락했습니다.	Amy	
 3546	Valor esperado do investimento	Очікуваний розмір інвестицій	投資予定額	예상 투자 금액	UI	
-3547	Traduçao por <global.nametranslate>	Переклад від <global.nametranslate>	<global.nametranslate>による翻訳	<global.nametranslate>의 번역	UI	
-3548	Esta traduçao foi feita por fas da comunidade e pode conter imprecisoes ou estar incompleta.	Цей переклад виконаний спільнотою фанатів і може містити неточності або бути неповним.	この翻訳はコミュニティによるファンメイドであり、不正確な部分や不完全な部分が含まれている可能性があります。	이 번역은 커뮤니티에서 팬이 만든 번역으로 부정확하거나 불완전할 수 있습니다.	UI	
+3547	Traducao por <global.nametranslate>	Переклад від <global.nametranslate>	<global.nametranslate>による翻訳	<global.nametranslate>의 번역	UI	
+3548	Esta traducao foi feita por fas da comunidade e pode conter imprecisoes ou estar incompleta.	Цей переклад виконаний спільнотою фанатів і може містити неточності або бути неповним.	この翻訳はコミュニティによるファンメイドであり、不正確な部分や不完全な部分が含まれている可能性があります。	이 번역은 커뮤니티에서 팬이 만든 번역으로 부정확하거나 불완전할 수 있습니다.	UI	
 3549						
 3550						
 3551						
