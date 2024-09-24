@@ -3409,7 +3409,7 @@
 3408	Voce perdeu o torneio!	Ви програли турнір!	トーナメント敗退です！	토너먼트에서 탈락했습니다!	UI (Poker)	
 3409	<player_name> venceu o torneio!	Переможець столу - <player_name>!	<player_name>がトーナメントで優勝しました！	<player_name>, 토너먼트 우승!	UI (Poker)	
 3410	<player_name> ganhou por <win_reason>	Переможець - <player_name>  (<win_reason>)	<player_name>が<win_reason>で勝ちました	<player_name> 승리 (<win_reason>)	UI (Poker)	
-3411	<b_enter> Para continuar	<b_enter> - продовжити	<b_enter>で続行	<b_enter> - 계속	UI (Poker)	
+3411	<b_enter> para continuar	<b_enter> - продовжити	<b_enter>で続行	<b_enter> - 계속	UI (Poker)	
 3412	Pote	Банк	ポット	팟	UI (Poker)	
 3413	Bolada	Кишені	ポケット	포켓	UI (Poker)	
 3414	Call	Кол	コール	콜	UI (Poker)	
