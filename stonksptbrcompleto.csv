@@ -5174,4 +5174,20 @@ talent_replace_question	Substituir o talento de <fullname> de <oldhyst> para <ne
 4783	Desdobramento de Ações	Спліт акцій	株式分割	액면분할	股票拆分	股票拆分	UI
 4784	Podemos realizar um desdobramento de ações de <split_size>:1 da nossa empresa. Isso aumentará o número de ações em circulação e pode melhorar a liquidez e atrair novos investidores. Deseja prosseguir?	Ми можемо провести спліт акцій <split_size>:1 нашої компанії. Це збільшить кількість акцій в обігу, що може покращити ліквідність і залучити нових інвесторів. Ви хочете це зробити?	自社で1対<split_size>の株式分割を実施することができます。流通株式数が増え、流動性が高まり、新たな投資家を呼び込める可能性があります。進めますか？	자사의 <split_size>:1 액면분할을 진행할 수 있습니다. 유통 주식 수가 늘어나 유동성이 향상되고 신규 투자자 유치에 도움이 될 수 있습니다. 계속하시겠습니까?	我们可以对公司股票进行 <split_size>:1 拆分。这将增加流通股数量，有望提升流动性并吸引新的投资者。您想继续吗？	我們可以對公司股票進行 <split_size>:1 拆分。這將增加流通股數量，有望提升流動性並吸引新的投資者。您想繼續嗎？	Amy
 4785	O preço de nossas ações não é notavelmente maior que a média do mercado - um desdobramento não se justifica no momento.	Ціна наших акцій не вища за середню по ринку - спліт зараз не має сенсу.	自社の株価が市場平均を大きく上回っていないため、今は株式分割を行う意味がありません。	자사 주가가 시장 평균보다 크게 높지 않아 지금은 액면분할이 필요하지 않습니다.	我们的股价并未明显高于市场平均水平，目前没有进行拆股的必要。	我們的股價並未明顯高於市場平均水平，目前沒有進行拆股的必要。	Amy
-							
+quantity	Quantidade	Кількість			数量	數量	
+4786	Você atingiu o limite de empréstimos por negociação para esta ação.	Ви досягли ліміту запозичень за одну угоду для цієї акції.	この銘柄の1回あたりの借入上限に達しました。	이 종목의 거래당 차입 한도에 도달했습니다.	您已达到该股票每笔交易的融券上限。	您已達到該股票每筆交易的融券上限。	UI
+4787	Crédito insuficiente para pegar mais ações emprestadas. Cubra algumas de suas vendas a descoberto primeiro.	Недостатньо грошей, щоб позичити більше акцій. Спочатку поверніть частину наявних шортів.	これ以上の株式を借りる与信枠がありません。先に既存の空売りの一部を返済してください。	더 많은 주식을 빌릴 신용 한도가 부족합니다. 먼저 기존 공매도 일부를 청산하세요.	信用额度不足，无法再融券更多股票。请先平掉部分现有的融券头寸。	信用額度不足，無法再融券更多股票。請先平掉部分現有的融券頭寸。	UI
+4788	A corretora não tem mais ações desta empresa para emprestar no momento.	У брокера зараз більше нема акцій цієї компанії для надання в борг.	ブローカーには現在、この銘柄に貸し出せる株式が残っていません。	브로커에 현재 이 회사 주식의 대주 잔량이 없습니다.	证券商目前没有这家公司可供融券的股票了。	證券商目前沒有這家公司可供融券的股票了。	UI
+fortune_breakdown_total	Patrimônio total	Загальні статки	総資産	총 자산	总资产	總資產	UI
+fortune_breakdown_cash	Dinheiro	Готівка	現金	현금	现金	現金	UI
+fortune_breakdown_wealth_chip	Patrimônio	Багатства	資産	자산	财富	財富	UI
+fortune_breakdown_debt	Dívida	Борг	負債	부채	债务	債務	UI
+fortune_breakdown_short_debt	Posições a descoberto	Шорт-позиції	空売り建玉	공매도 잔고	做空持仓	做空持倉	UI
+fortune_breakdown_group_cars	Agrupar carros	Машини разом	車をまとめる	차량 묶기	合并车辆	合併車輛	UI
+fortune_breakdown_group_estate	Agrupar propriedades	Нерухомість разом	不動産をまとめる	부동산 묶기	合并房产	合併房產	UI
+fortune_breakdown_empty	Nenhum ativo nesta exibição	Тут поки нічого немає	表示できる資産がありません	표시할 자산이 없습니다	无可显示资产	無可顯示資產	UI
+fortune_breakdown_info	Informações	Інфо	情報	정보	信息	資訊	UI
+fortune_breakdown_all_hidden	Todas as categorias ocultas. Clique em uma etiqueta para habilitar.	Усі категорії приховані. Натисніть фільтр щоб показати.	すべてのカテゴリが非表示です。チップをクリックして表示してください。	모든 카테고리가 숨겨졌습니다. 칩을 클릭하여 표시하세요.	已隐藏所有类别。点击分类标签以显示。	已隱藏所有類別。點擊分類標籤以顯示。	UI
+fortune_breakdown_open	Abrir detalhes	Відкрити	詳細を開く	상세 보기	打开详情	打開詳情	UI
+fortune_breakdown_items	itens	од.	点	개	件	件	UI
+fortune_breakdown_cash_hint	Dinheiro menos todas as dívidas	Готівка мінус борги	現金から負債を差し引いた額	부채를 차감한 현금	现金扣除全部债务	現金扣除全部債務	UI
